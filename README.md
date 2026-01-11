@@ -7,7 +7,7 @@ Kelas : TI.22.C.SE.1
 Mata Kuliah : TIF701 - Kecerdasan Buatan  
 Dosen Pengampu : Yogi Yulianto, M.Kom  
 
----
+
 
 ## Judul Project
 Prediksi Diabetes Menggunakan Machine Learning (Supervised Learning Classification)
